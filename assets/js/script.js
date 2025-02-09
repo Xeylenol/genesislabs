@@ -49,8 +49,8 @@ document.addEventListener('DOMContentLoaded', function() {
             link: "article2.html"
         },
         {
-            title: "Heat Reservoir Anomalies",
-            meta: "Published in Advanced Theoretical Physics",
+            title: "art of the Universe",
+            meta: "In the final days before the world fell apart, four individuals — Alex, Beth, Chris, and Dana — gathered in an old, crumbling studio",
             reference: "GL-2024-0455",
             link: "article3.html"
         }
